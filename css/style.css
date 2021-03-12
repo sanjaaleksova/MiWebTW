@@ -1,0 +1,95 @@
+.mainHeader {
+    background-color: #ffca0a !important;
+
+}
+
+.jumbotron {
+    padding:20px;
+
+  }
+.jumbotron-image {
+    background-image: url("https://images.unsplash.com/photo-1539738084316-53d142fca864?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80");
+    filter:opacity(90%);
+
+}
+
+.navFont {
+font-family: 'Potta One', cursive;
+
+}
+.jumboFont {
+    font-family: 'Staatliches', cursive;
+}
+
+footer {
+    font-size:medium;
+    text-align:center;
+    font-family: 'Dosis', sans-serif;
+    /*position: absolute;*/
+    bottom: 0;
+    width: 100% !important;
+    margin-top: 20px;
+
+}
+
+.fas {
+    padding:5px;
+}
+
+.far {
+    padding:5px;
+    color:black;
+}
+
+.fab {
+    padding:5px;
+    color:black;
+    }
+
+
+.main-header1 {
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    padding:20px;
+
+}
+
+.body-text {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+
+}
+
+.body-text-bigger {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: xx-large;
+}
+
+.jumbotron-image2 {
+    background-image: url("https://phantom-elmundo.unidadeditorial.es/5babca5641cd125f6f0f80b63166514e/crop/0x0/2044x1363/assets/multimedia/imagenes/2020/02/17/15819413838217.jpg");
+    padding:0;
+    margin:0auto;
+    opacity:86%;
+}
+.about-us {
+    margin:30px;
+    padding:10px;
+}
+
+.nav-fill {
+    font-family: 'Shadows Into Light', cursive;
+
+}
+
+.card-text {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size:large;
+    font-weight:bold;
+}
+
+.jumbo-contacto {
+    background-image: url("https://www.repsol.com/imagenes/global/en/repsol-customer-service_tcm14-44262.jpg");
+
+.lead {
+    text-weight: bold;
+}
